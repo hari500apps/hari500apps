@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hari Gudivada
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning ... Nuxt, React Native , Kendo UI. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
